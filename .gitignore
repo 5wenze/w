@@ -1,0 +1,10 @@
+# 不要上传本地环境文件
+.env
+*.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
